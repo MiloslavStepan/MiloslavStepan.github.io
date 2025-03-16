@@ -1,4 +1,4 @@
-# MiloslavStepan.github.io
+# Miloslav Štěpán's homepage
 
 
-this is my site!!!!
+**<u>About me</u>**: I am a PhD student of John Bourke.
