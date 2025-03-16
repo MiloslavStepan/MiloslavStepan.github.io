@@ -3,6 +3,7 @@
 
 **<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic. I am currently looking for a postdoc position.
 
+[Link to image](File/2023.07 CT23 Prezentace.pdf)
 
 # Talks:
 [[2023.07 CT23 Prezentace.pdf]]
