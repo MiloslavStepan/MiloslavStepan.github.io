@@ -1,7 +1,8 @@
-# Miloslav Štěpán's homepage
+![Untitled](https://github.com/user-attachments/assets/f8063c5b-5d8f-4573-a4a8-d65374c79349)# Miloslav Štěpán's homepage
 
 
 **<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic. I am currently looking for a postdoc position.
+![Untitled](https://github.com/user-attachments/assets/711ae192-c7fa-419d-afff-a4ca6e616094)
 
 [Link to image](Files/2023.07 CT23 Prezentace.pdf)
 
