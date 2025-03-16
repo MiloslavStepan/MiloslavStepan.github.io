@@ -7,15 +7,13 @@
 [Link to image](Files/2023.07%20CT23%20Prezentace.pdf)
 
 # Talks:
-[[2023.07 CT23 Prezentace.pdf]]
-
-[dsda](dddddd)
-[ds](dsad)
 
 - Codescent objects and lax coherence (2022), [Johns Hopkins Category Theory Seminar](https://math.jhu.edu/~eriehl/ct/)
 - Factorization systems as double categories (2023), [CT2023](https://sites.uclouvain.be/ct2023/), ([SLIDES](2023.07 CT23 Prezentace.pdf))
 - Quasi-limits and lax flexibility (2023), [Octoberfest2023](https://richardblute.ca/octoberfest-2023/), [SLIDES](https://www.math.muni.cz/~stepan/2023 Stepan OF23.pdf)
 - Turning lax monoidal categories into strict ones (2024), [PTSPC24](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html), [SLIDES](https://www.math.muni.cz/~stepan/2024 Stepan PTSPC24.pdf)
+- Lax adjunctions and lax-idempotent pseudomonads [CT24](https://www.usc.gal/regaca/ct2024/)
+- Double categories versus factorization systems [Second virtual workshop on double categories](https://bryceclarke.github.io/virtual-double-categories-workshop/)
 
 \cventry{2022/02/02}{Category Theory Seminar}{Johns Hopkins}{Baltimore, MD}{}{Codescent objects and lax coherence}
 
