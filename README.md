@@ -10,13 +10,13 @@ I am currently looking for a postdoc position.
 
 # Talks:
 
-- Codescent objects and lax coherence (2022), [Johns Hopkins Category Theory Seminar](https://math.jhu.edu/~eriehl/ct/)
-- Factorization systems as double categories (2023), [CT 2023](https://sites.uclouvain.be/ct2023/), ([SLIDES](Files/2023.07%20CT23%20Slides.pdf))
-- Quasi-limits and lax flexibility (2023), [Octoberfest 2023](https://richardblute.ca/octoberfest-2023/), ([SLIDES](Files/2023.10%20Octoberfest%20Slides.pdf))
-- Turning lax monoidal categories into strict ones (2024), [PTSPC24](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html), ([SLIDES](Files/2024.03%20PTSPC%20Slides.pdf))
-- Lax adjunctions and lax-idempotent pseudomonads [CT 2024](https://www.usc.gal/regaca/ct2024/),([SLIDES](Files/2024.06%20CT24%20Slides.pdf))
-- Double categories versus factorization systems [Second virtual workshop on double categories](https://bryceclarke.github.io/virtual-double-categories-workshop/), ([SLIDES](Files/2024.10.21%20VDBLW24%20Slides.pdf))
-- Some characterizations of lax idempotency for pseudomonads [Octoberfest 2023](https://dutchcats.github.io/PSSL-2024/), ([SLIDES](Files/2024.15.11%20PSSL109%20Slides.pdf))
+- 2022: Codescent objects and lax coherence, [Johns Hopkins Category Theory Seminar](https://math.jhu.edu/~eriehl/ct/)
+- 2023: Factorization systems as double categories, [CT 2023](https://sites.uclouvain.be/ct2023/), ([SLIDES](Files/2023.07%20CT23%20Slides.pdf))
+- 2023: Quasi-limits and lax flexibility, [Octoberfest 2023](https://richardblute.ca/octoberfest-2023/), ([SLIDES](Files/2023.10%20Octoberfest%20Slides.pdf))
+- 2024: Turning lax monoidal categories into strict ones, [PTSPC24](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html), ([SLIDES](Files/2024.03%20PTSPC%20Slides.pdf))
+- 2024: Lax adjunctions and lax-idempotent pseudomonads, [CT 2024](https://www.usc.gal/regaca/ct2024/), ([SLIDES](Files/2024.06%20CT24%20Slides.pdf))
+- 2024: Double categories versus factorization systems, [Second virtual workshop on double categories](https://bryceclarke.github.io/virtual-double-categories-workshop/), ([SLIDES](Files/2024.10.21%20VDBLW24%20Slides.pdf))
+- 2024: Some characterizations of lax idempotency for pseudomonads [PSSL 2024](https://dutchcats.github.io/PSSL-2024/), ([SLIDES](Files/2024.15.11%20PSSL109%20Slides.pdf))
 
 # Publications and preprints:
 - "Factorization systems and double categories." *Theory And Applications Of Categories* 41.18 (2024): 551-592. ([PDF](http://www.tac.mta.ca/tac/volumes/41/18/41-18abs.html))
