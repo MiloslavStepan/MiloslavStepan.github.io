@@ -1,13 +1,11 @@
 # Miloslav Štěpán's homepage
 
 
-**<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic. I enjoy 2-categories, double categories, two-dimensional monad theory.
+**<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic
+
+I enjoy 2-categories, double categories, two-dimensional monad theory, lax structures.
 
 I am currently looking for a postdoc position.
-
-
-
-
 
 
 # Talks:
