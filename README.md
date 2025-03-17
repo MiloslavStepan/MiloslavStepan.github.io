@@ -16,7 +16,7 @@
 # Talks:
 
 - Codescent objects and lax coherence (2022), [Johns Hopkins Category Theory Seminar](https://math.jhu.edu/~eriehl/ct/)
-- Factorization systems as double categories (2023), [CT 2023](https://sites.uclouvain.be/ct2023/), ([SLIDES](Files/2023.07%20CT23%20Prezentace.pdf))
+- Factorization systems as double categories (2023), [CT 2023](https://sites.uclouvain.be/ct2023/), ([SLIDES](Files/2023.07%20CT23%20Slides.pdf))
 - Quasi-limits and lax flexibility (2023), [Octoberfest 2023](https://richardblute.ca/octoberfest-2023/), ([SLIDES](Files/2023.10%20Octoberfest%20Slides.pdf))
 - Turning lax monoidal categories into strict ones (2024), [PTSPC24](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html), ([SLIDES](Files/2024.03%20PTSPC%20Slides.pdf))
 - Lax adjunctions and lax-idempotent pseudomonads [CT 2024](https://www.usc.gal/regaca/ct2024/),([SLIDES](Files/2024.06%20CT24%20Slides.pdf))
