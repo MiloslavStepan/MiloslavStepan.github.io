@@ -18,7 +18,7 @@ I am currently looking for a postdoc position.
 - 2024: Double categories versus factorization systems, [Second virtual workshop on double categories](https://bryceclarke.github.io/virtual-double-categories-workshop/), ([PDF](Files/2024.10.21%20VDBLW24%20Slides.pdf))([VIDEO](https://www.youtube.com/watch?v=DntOQL8DAKA))
 - 2024: Some characterizations of lax idempotency for pseudomonads [PSSL 2024](https://dutchcats.github.io/PSSL-2024/), ([PDF](Files/2024.15.11%20PSSL109%20Slides.pdf))
 
-# Publications and preprints:
+# Publications:
 - "Factorization systems and double categories." *Theory And Applications Of Categories* 41.18 (2024): 551-592. ([PDF](http://www.tac.mta.ca/tac/volumes/41/18/41-18abs.html))
 - "Colax adjunctions and lax-idempotent pseudomonads." *Theory and Applications of Categories*, 44.7 (2025): 227-271. ([PDF](http://www.tac.mta.ca/tac/volumes/44/7/44-07abs.html))
 
