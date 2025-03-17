@@ -1,12 +1,9 @@
 # Miloslav Štěpán's homepage
 
 
-**<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic. I am currently looking for a postdoc position.
+**<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic. I enjoy 2-categories, double categories, two-dimensional monad theory.
 
-[Link to image](Files/Untitled.jpeg)
-[Link to image]()
-
-([SLIDES](Files/xxxxxxx))
+I am currently looking for a postdoc position.
 
 
 
@@ -23,26 +20,9 @@
 - Double categories versus factorization systems [Second virtual workshop on double categories](https://bryceclarke.github.io/virtual-double-categories-workshop/), ([SLIDES](Files/2024.10.21%20VDBLW24%20Slides.pdf))
 - Some characterizations of lax idempotency for pseudomonads [Octoberfest 2023](https://dutchcats.github.io/PSSL-2024/), ([SLIDES](Files/2024.15.11%20PSSL109%20Slides.pdf))
 
-\cventry{2022/02/02}{Category Theory Seminar}{Johns Hopkins}{Baltimore, MD}{}{Codescent objects and lax coherence}
+# Publications and preprints:
+- "Factorization systems and double categories." *Theory And Applications Of Categories* 41.18 (2024): 551-592. ([PDF](http://www.tac.mta.ca/tac/volumes/41/18/41-18abs.html))
+- "Colax adjunctions and lax-idempotent pseudomonads." *Theory and Applications of Categories*, 44.7 (2025): 227-271. ([PDF](http://www.tac.mta.ca/tac/volumes/44/7/44-07abs.html))
 
-%\cventry{2022/06/09}{Algebra seminar}{Masaryk}{Brno}{}{On the computation of codescent objects}
-
-%\cventry{2023/05/18}{Algebra seminar}{Masaryk}{Brno}{}{Factorization systems and double categories}
-
-\cventry{2023/07/06}{CT23}{}{Louvain-la-Neuve, Belgium}{}{Factorization systems as double categories}
-
-%\cventry{2023/10/04}{Algebra seminar}{Masaryk}{Brno}{}{Quasi-limits and lax flexibility}
-
-\cventry{2023/10/28}{Octoberfest 2023}{}{}{}{Quasi-limits and lax flexibility}
-
-\cventry{2024/03/19}{PTSPC}{}{Tallinn, Estonia}{}{Turning lax monoidal categories into strict ones}
-
-\cventry{2024/06/27}{CT24}{}{Santiago de Compostela, Spain}{}{Lax adjunctions and lax-idempotent pseudomonads}
-
-\cventry{2024/10/21}{Second Virtual Workshop on Double Categories}{}{}{}{Double categories versus factorization systems}
-
-\cventry{2024/11/15}{PSSL 109}{}{Leiden, Netherlands}{}{Some characterizations of lax idempotency for pseudomonads}
-
-# Publications:
-
-# Thesis:
+# PhD thesis:
+- Lax structures in 2-category theory ([PDF](https://is.muni.cz/auth/th/qlooc/MiloslavPhD.pdf))
