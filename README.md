@@ -1,3 +1,4 @@
+.
 # Miloslav Štěpán's homepagex
 
 
