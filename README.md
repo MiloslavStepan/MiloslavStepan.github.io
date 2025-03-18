@@ -1,5 +1,4 @@
-.
-# Miloslav Štěpán's homepagex
+# Miloslav Štěpán's homepage
 
 
 **<u>About me</u>**: I am a mathematician who recently finished his PhD under [John Bourke](https://www.math.muni.cz/~bourkej/) at [Masaryk University](https://www.sci.muni.cz/en) in the Czech republic
